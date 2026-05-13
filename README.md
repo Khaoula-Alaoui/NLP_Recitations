@@ -40,7 +40,3 @@ All other code and organizing efforts have been created exclusively for the NLP 
 - PyTorch
 - HuggingFace Transformers
 - Optuna
-
----
-
-Recitation Repository – NLP
