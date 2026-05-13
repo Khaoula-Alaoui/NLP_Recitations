@@ -1,0 +1,5 @@
+https://www.geeksforgeeks.org/artificial-intelligence/introduction-to-hugging-face-transformers/
+
+https://huggingface.co/docs/diffusers/training/lora
+
+https://huggingface.co/learn/llm-course/chapter1/4
