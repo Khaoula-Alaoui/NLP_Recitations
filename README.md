@@ -23,6 +23,7 @@ Each folder is named after each recitation session and includes the notebooks, d
 ## Important Notice
 
 The code and materials for the Recitation Sessions 01, 09, 10, and 11 sessions are not entirely my own work. The notebooks have some code that has been inspired by third-party educational materials, tutorials, documents, and open-source code repositories. 
+
 All other code and organizing efforts have been created exclusively for the NLP recitation sessions.
 
 ## Tools & Libraries
