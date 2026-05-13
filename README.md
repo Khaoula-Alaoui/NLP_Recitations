@@ -3,7 +3,7 @@
 
 This repository comprises all materials, notebooks, a few exercises, and demonstrations used in the NLP recitations sessions held at Al Akhawayn University in the Spring 2026 semester.
 
-It is based on my Teaching Assistant (TA) work performed for the Natural Language Processing (CSC 3348) course at Al Akhawayn University. The recitations were planned and presented with the guidance of Professor Asmae Mourhir.
+It is based on my Teaching Assistant (TA) work performed for the Natural Language Processing (CSC 3348) course at Al Akhawayn University. The recitations were planned and presented with the guidance of Professor **Asmae Mourhir**.
 
 ## Topics Covered
 
